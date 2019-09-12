@@ -19,11 +19,7 @@
 
 ## About
 
-Explain the problem the package is trying to solve.
-
-## Features
-
-- Name key features e.g. size, performance, how it differs from similar solutions etc.
+Based on [this gist](https://gist.github.com/vitordino/7ba91f6fea8d412401e3171a43be6c56).
 
 ## Usage
 
@@ -60,4 +56,4 @@ $ yarn add rfc5646-tags
 
 ## License
 
-undefined
+MIT
