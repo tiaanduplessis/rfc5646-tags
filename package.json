@@ -1,7 +1,7 @@
 {
   "name": "rfc5646-tags",
   "description": "List of language tags according to RFC 5646",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "lint": "standard --fix"
